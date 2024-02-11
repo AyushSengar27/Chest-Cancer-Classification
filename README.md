@@ -13,3 +13,14 @@ Environment name = chestcancer
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/AyushSengar27/Chest-Cancer-Classification.mlflow
+
+export MLFLOW_TRACKING_USERNAME=AyushSengar27
+
+export MLFLOW_TRACKING_PASSWORD=391b0cd4b60f4137f7977a5cd23540962b816cd7
+
+```
